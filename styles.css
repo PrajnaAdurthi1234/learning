@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+.navbar {
+  background-color: #121775;
+}
+.navbar-brand img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.tab-content {
+  background-image: url("https://www.sportzcraazy.com/wp-content/uploads/2020/04/BCCI-Logo.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  color: white;
+}
+.app-promo {
+  background-color: #ffffff;
+  padding: 50px 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.app-promo h1 {
+  font-size: 2.5rem;
+  color: #002f6c;
+}
+.app-promo p {
+  font-size: 1.2rem;
+  color: #333333;
+}
+.app-promo img {
+  width: 250px;
+  margin: 20px;
+}
+.app-promo .btn {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.app-promo .btn-google {
+  background-color: #070a0f;
+  color: white;
+  border: none;
+}
+.app-promo .btn-google:hover {
+  background-color: #0b0e13;
+}
+.app-promo .btn-apple {
+  background-color: #000000;
+  color: white;
+  border: none;
+}
+.app-promo .btn-apple:hover {
+  background-color: #333333;
+}
+.sponsors {
+  background-color: black;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+.sponsors img {
+  height: 50px;
+  margin: 0 10px;
+}
+.footer {
+  background-color: #002f6c;
+  color: white;
+  padding: 20px 0;
+}
+.footer-section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.footer-section div {
+  margin: 10px;
+}
+.footer-section h5 {
+  color: #ffa500;
+}
+.footer-section a {
+  color: white;
+  text-decoration: none;
+}
+.footer-section a:hover {
+  text-decoration: underline;
+}
+.footer-logo {
+  text-align: center-left;
+  margin-bottom: 20px;
+}
+.footer-logo img {
+  height: 60px;
+}
+.social-media {
+  text-align: center;
+  margin-top: 20px;
+}
+.social-media a {
+  margin: 0 10px;
+}
+.social-media img {
+  height: 24px;
+}
+.copyright {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9rem;
+}
+
